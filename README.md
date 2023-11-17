@@ -1,4 +1,4 @@
 # Shopee-Kaggle-Competion
 
 
-## Task: Computer Vision
+Task: Computer Vision
